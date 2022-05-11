@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklearnwithguruji_docs=self.webpackChunklearnwithguruji_docs||[]).push([[6952],{1366:function(l){l.exports=JSON.parse('{"label":"hello","permalink":"/learnwithguruji-docs/blog/tags/hello","allTagsPath":"/learnwithguruji-docs/blog/tags","count":2}')}}]);
