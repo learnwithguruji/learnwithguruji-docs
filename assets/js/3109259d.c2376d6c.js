@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklearnwithguruji_docs=self.webpackChunklearnwithguruji_docs||[]).push([[7961],{7328:function(e){e.exports=JSON.parse('{"permalink":"/learnwithguruji-docs/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
